@@ -1,4 +1,4 @@
-# HandNotHand
+# PongNotPong
 Makers onsite final project    
 Cohort: January 2020  
 Start: 30/03/2020  
